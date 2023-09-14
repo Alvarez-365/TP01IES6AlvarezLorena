@@ -4,7 +4,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 
+		 //comentario
 		// Inicializar las variables apellidos y nombres
         String apellidos2 = "Alvarez";
         String nombres2 = "Lorena Del Valle";
